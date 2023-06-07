@@ -24,3 +24,38 @@ This game allows the player to control a snake on a grid. The snake moves in fou
 1. Clone the repository:
 
 ```bash
+git clone https://github.com/theooow/snake.git
+```
+
+
+2. Open the project in your Java IDE or text editor.
+
+3. Build the project.
+
+4. Run the `App` class to start the game.
+
+## Usage
+
+- Use the arrow keys to control the snake's direction.
+- Try to eat as many apples as possible without colliding with the walls or your own body.
+- The score is displayed at the top of the game window.
+
+## Bugs
+
+- The snake can sometimes move on the hidden borders of the grid. This is due to the offset which permit the fluidity of the snake's movement.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please create a new issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+This game was developed as a first project by Théo-Selim CHOUABBIA as part of the Computer Sciences program at UIT of Arles in Aix-Marseille University.
+
+## Contact
+
+For any inquiries or feedback, please contact Théo-Selim CHOUABBIA at theooow@hotmail.com.
